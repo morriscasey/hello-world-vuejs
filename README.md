@@ -1,6 +1,4 @@
-[![Build status][ci-image]][ci-url]
-[ci-image]: https://travis-ci.org/morriscasey/hello-world-vuejs.png?branch=master
-[ci-url]: https://travis-ci.org/morriscasey/hello-world-vuejs
+[![Build Status](https://travis-ci.org/morriscasey/hello-world-vuejs.svg?branch=master)](https://travis-ci.org/morriscasey/hello-world-vuejs)
 
 # hello-world-vue
 
